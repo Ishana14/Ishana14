@@ -1,6 +1,6 @@
 <!-- ================== ANIMATED SVG BANNER ================== -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Ishana14/Ishana14/main/banner.gif"
+  <img src="https://raw.githubusercontent.com/Ishana14/Ishana14/main/banner.png"
        alt="Profile Banner"
        width="100%" />
 </p>
