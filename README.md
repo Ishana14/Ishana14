@@ -13,7 +13,7 @@
 
 <!-- ================== VISITOR COUNTER ================== -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=DCP0001&label=Profile%20Views&color=0e75b6&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=Ishana14&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
 Hi, I’m Ishana Chaudhari
